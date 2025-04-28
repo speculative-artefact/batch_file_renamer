@@ -1,0 +1,1 @@
+python -m PyQt6.uic.pyuic -x batch_renamer.ui -o batch_renamer_ui.py

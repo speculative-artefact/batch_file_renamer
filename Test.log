@@ -1,0 +1,188 @@
+2025-02-27 22:20:06,717 - Test Logger 1.0.0 
+            - INFO - Searching for txt files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:20:06,717 - Test Logger 1.0.0 
+            - INFO - Files: ['hello_world.txt', 'lorem_ipsum.txt']
+2025-02-27 22:20:06,717 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:20:06,717 - Test Logger 1.0.0 
+            - INFO - Copying C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\hello_world.txt to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\NOTE_hello_world_TEMP.txt
+2025-02-27 22:20:06,718 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:20:06,718 - Test Logger 1.0.0 
+            - INFO - Copying C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\lorem_ipsum.txt to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\NOTE_lorem_ipsum_TEMP.txt
+2025-02-27 22:21:23,176 - Test Logger 1.0.0 
+            - INFO - Searching for ma files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:21:23,177 - Test Logger 1.0.0 
+            - INFO - Files: ['iron_file_01.ma', 'stone_file_final_new_02b.ma', 'tree_file_01.ma']
+2025-02-27 22:21:23,177 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:21:23,177 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\iron_file_01.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron_file_01.ma
+2025-02-27 22:21:23,177 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:21:23,177 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone_file_final_new_02b.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone_file_final_new_02b.ma
+2025-02-27 22:21:23,178 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:21:23,178 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tree_file_01.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree_file_01.ma
+2025-02-27 22:21:47,810 - Test Logger 1.0.0 
+            - INFO - Searching for ma files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:21:47,811 - Test Logger 1.0.0 
+            - INFO - Files: ['M_iron_file_01.ma', 'M_stone_file_final_new_02b.ma', 'M_tree_file_01.ma']
+2025-02-27 22:21:47,811 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:21:47,811 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron_file_01.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron_.ma
+2025-02-27 22:21:47,811 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:21:57,381 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone_file_final_new_02b.ma
+2025-02-27 22:21:57,381 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:21:57,381 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree_file_01.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree_.ma
+2025-02-27 22:22:19,695 - Test Logger 1.0.0 
+            - INFO - Searching for ma files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:22:19,695 - Test Logger 1.0.0 
+            - INFO - Files: ['M_iron_.ma', 'M_stone_file_final_new_02b.ma', 'M_tree_.ma']
+2025-02-27 22:22:19,695 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:22:32,048 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron_.ma
+2025-02-27 22:22:32,049 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:22:32,049 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone_file_final_new_02b.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone_.ma
+2025-02-27 22:22:32,049 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:22:32,740 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree_.ma
+2025-02-27 22:22:58,572 - Test Logger 1.0.0 
+            - INFO - Searching for ma files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:22:58,573 - Test Logger 1.0.0 
+            - INFO - Files: ['M_iron_.ma', 'M_stone_.ma', 'M_tree_.ma']
+2025-02-27 22:22:58,573 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:22:59,620 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron_.ma
+2025-02-27 22:22:59,620 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:22:59,620 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone_.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone.ma
+2025-02-27 22:22:59,621 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:22:59,621 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree_.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree.ma
+2025-02-27 22:23:08,233 - Test Logger 1.0.0 
+            - INFO - Searching for ma files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:23:08,233 - Test Logger 1.0.0 
+            - INFO - Files: ['M_iron_.ma', 'M_stone.ma', 'M_tree.ma']
+2025-02-27 22:23:08,233 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:23:08,234 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron_.ma to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron.ma
+2025-02-27 22:23:08,234 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:23:09,263 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone.ma
+2025-02-27 22:23:09,263 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:23:10,227 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree.ma
+2025-02-27 22:23:48,730 - Test Logger 1.0.0 
+            - INFO - Searching for ma files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:23:48,730 - Test Logger 1.0.0 
+            - INFO - Files: ['M_iron.ma', 'M_stone.ma', 'M_tree.ma']
+2025-02-27 22:23:48,730 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:23:49,614 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_iron.ma
+2025-02-27 22:23:49,615 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:23:50,144 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_stone.ma
+2025-02-27 22:23:50,145 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:23:50,845 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\M_tree.ma
+2025-02-27 22:23:59,842 - Test Logger 1.0.0 
+            - INFO - Searching for png files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:23:59,842 - Test Logger 1.0.0 
+            - INFO - Files: ['texture_iron_diffuse.png', 'texture_tree_color.png', 'tex_stone_diffuse.png']
+2025-02-27 22:23:59,842 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:00,602 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\texture_iron_diffuse.png
+2025-02-27 22:24:00,602 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:01,047 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\texture_tree_color.png
+2025-02-27 22:24:01,047 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:01,047 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tex_stone_diffuse.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone_diffuse.png
+2025-02-27 22:24:08,750 - Test Logger 1.0.0 
+            - INFO - Searching for png files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:24:08,750 - Test Logger 1.0.0 
+            - INFO - Files: ['stone_diffuse.png', 'texture_iron_diffuse.png', 'texture_tree_color.png']
+2025-02-27 22:24:08,751 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:09,876 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone_diffuse.png
+2025-02-27 22:24:09,877 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:09,877 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\texture_iron_diffuse.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\iron_diffuse.png
+2025-02-27 22:24:09,877 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:09,877 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\texture_tree_color.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tree_color.png
+2025-02-27 22:24:22,025 - Test Logger 1.0.0 
+            - INFO - Searching for png files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:24:22,025 - Test Logger 1.0.0 
+            - INFO - Files: ['iron_diffuse.png', 'stone_diffuse.png', 'tree_color.png']
+2025-02-27 22:24:22,025 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:22,931 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\iron_diffuse.png
+2025-02-27 22:24:22,931 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:23,413 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone_diffuse.png
+2025-02-27 22:24:23,413 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:23,413 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tree_color.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tree.png
+2025-02-27 22:24:32,586 - Test Logger 1.0.0 
+            - INFO - Searching for png files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:24:32,586 - Test Logger 1.0.0 
+            - INFO - Files: ['iron_diffuse.png', 'stone_diffuse.png', 'tree.png']
+2025-02-27 22:24:32,586 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:32,586 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\iron_diffuse.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\iron.png
+2025-02-27 22:24:32,587 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:32,587 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone_diffuse.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone.png
+2025-02-27 22:24:32,587 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:33,608 - Test Logger 1.0.0 
+            - WARNING - File already exists: C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tree.png
+2025-02-27 22:24:48,126 - Test Logger 1.0.0 
+            - INFO - Searching for png files recursively in C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files
+2025-02-27 22:24:48,127 - Test Logger 1.0.0 
+            - INFO - Files: ['iron.png', 'stone.png', 'tree.png']
+2025-02-27 22:24:48,127 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:48,127 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\iron.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\T_iron_C.png
+2025-02-27 22:24:48,127 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:48,127 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\stone.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\T_stone_C.png
+2025-02-27 22:24:48,128 - Test Logger 1.0.0 
+            - INFO - Renaming started
+2025-02-27 22:24:48,128 - Test Logger 1.0.0 
+            - INFO - Renaming C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\tree.png to C:/Users/bradl/Documents/Scripts/tech-art/03_batch_renamer_gui/testing_files\T_tree_C.png

@@ -31,6 +31,18 @@ This file lists potential improvements and tasks for the Batch File Renamer proj
 *   **Progress Bar:** Implement a progress bar for long-running rename/copy operations, especially with recursion enabled.
 *   **Drag and Drop:** Allow dragging a folder onto the application window to set the file path.
 
+## Artist/Technical Artist Workflow Enhancements
+
+*   **Naming Convention Templates:** Allow users to define and apply common naming convention templates (e.g., `[assetName]_[mapType]_[udim].[ext]`, `[shot]_[layer]_[version].####.[ext]`).
+*   **Texture Set Awareness:** Option to intelligently rename related texture maps as a group (e.g., finding `_BaseColour`, `_Normal`, `_Roughness` for the same base name and applying changes consistently).
+*   **Image Sequence Handling:** Detect and correctly rename numbered image sequences (e.g., `render.1001.exr`, `render.1002.exr` or `render_v01.%04d.png`).
+*   **UDIM Support:** Recognise and allow renaming based on UDIM tile numbers (e.g., `texture.1001.tif`).
+*   **Colour Space Identifiers:** Option to easily add/remove/modify colour space identifiers in filenames (e.g., `_sRGB`, `_lin`, `_raw`).
+*   **Thumbnail Previews:** Display image thumbnails in the file list widget for easier identification.
+*   **Metadata Integration:** (Advanced) Option to read/write specific metadata during rename (e.g., embedding artist name, updating asset tags).
+*   **DCC Integration Hooks:** (Advanced) Explore ways to trigger the renamer from within Digital Content Creation (DCC) applications like Maya or Blender, perhaps passing the current project/scene directory.
+*   **Version Control Awareness:** (Advanced) Add an option to check file status in version control systems (like Git or Perforce) before renaming to prevent conflicts or errors.
+
 ## UI/UX Improvements
 
 *   **Clearer Button Text:** The main action button text ("Rename") should dynamically change to "Copy" if the copy method is selected.
